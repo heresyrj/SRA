@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1090024174847",
+    "firebase_url": "https://faceandsmile-bcc72.firebaseio.com",
+    "project_id": "faceandsmile-bcc72",
+    "storage_bucket": "faceandsmile-bcc72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090024174847:android:084209616d36fd6e",
+        "android_client_info": {
+          "package_name": "com.rj.facesmile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090024174847-1l4ch4k51p6phajglp50qk5htqjq55c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXI7-9aVXhlWJiPc82bDhyge5vKJQWG5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

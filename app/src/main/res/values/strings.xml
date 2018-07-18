@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smile like</string>
+    <string name="home_title">You smile like a ___ today?</string>
+    <string name="home_desc">Start using by Clicking the button below and granting permissions to use your camera</string>
+    <string name="home_start_btn">Check it out!</string>
+    <string name="camera_close">Close</string>
+</resources>
