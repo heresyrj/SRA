@@ -17,10 +17,11 @@ During the first phone interview, I was asked about Android development for [the
 Firebase provides clean and powerful APIs. Since Google IO 2018, Firebase announced MLKit which contains Vision features. It allows both online and offline mode vision recognition ability, and also support custom model serving. Since setting up a server is not the major concern. I decide to use Firebase.
 
 NOTE:
-Only test on Pixel 2 with API 27
+1. Only test on Pixel 2 with API 27
+2. To download APK, find it in Release [here](https://github.com/ruanjianusa/SRA/releases)
+
 
 # Steps
-
 
 ## Setting up
 
