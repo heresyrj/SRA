@@ -111,4 +111,5 @@ Use the ‘Camera’ button to flip camera facing.
 
 
 # Video Demo
-https://player.vimeo.com/video/280494383
+[![Watch the video]](https://player.vimeo.com/video/280494383)
+
