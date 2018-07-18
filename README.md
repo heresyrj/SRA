@@ -16,6 +16,8 @@ During the first phone interview, I was asked about Android development for [the
 **Why Firebase:**
 Firebase provides clean and powerful APIs. Since Google IO 2018, Firebase announced MLKit which contains Vision features. It allows both online and offline mode vision recognition ability, and also support custom model serving. Since setting up a server is not the major concern. I decide to use Firebase.
 
+NOTE:
+Only test on Pixel 2 with API 27
 
 # Steps
 
@@ -93,21 +95,20 @@ Built on top of vision, this package actually responsible for detecting face and
 **Main Activity**
 Serves as an placeholder for any information to be displayed or app root for navigation
 
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_29D3B1366AED6854C677CE7770E982B8FB3D988CA178B3AF935F10F8C7C79917_1531899043245_Screen+Shot+2018-07-18+at+12.29.29+AM.png)
+
+
+
+
 **Detect Activity**
-The main activity that show the camera preview and overlay with detected face and smile possibility
+The main activity that show the camera preview and overlay with detected face and smile possibility. If happiness possibility is greater than 0.9, a random emoji will drawn over the face and the bounding box will face.
+Use the ‘X’ at the bottom to close/reset the session.
+Use the ‘Camera’ button to flip camera facing. 
+
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_29D3B1366AED6854C677CE7770E982B8FB3D988CA178B3AF935F10F8C7C79917_1531899053885_Screen+Shot+2018-07-18+at+12.29.51+AM.png)
+
 
 
 
 # Video Demo
-
-
-
-
-
-
-
-
-
-
-
-
+https://player.vimeo.com/video/280494383
